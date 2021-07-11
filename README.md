@@ -1,2 +1,2 @@
 # GraphNeuralNetwork
-Implementing various Graph Neural Network
+Implementing various Graph Neural Networks
