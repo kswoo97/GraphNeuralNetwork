@@ -7,6 +7,6 @@
 Indentifying whether a certain molecular structure contains a benzen shape.  
 특정 분자 구조에 벤젠 형태가 포함되어 있는지 확인하는 task 입니다.  
 
-- GNN structure : Graph SAGE 
+- GNN structure : NNConv(Neural message passing) / (Gilmer et al. 17.)
 - Pooling : Summation
 - Readout : Single layer MLP with sigmoid activation
